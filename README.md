@@ -2,6 +2,6 @@
 
 ## Sub header
 
-** Premier league ** *La Liga*
+**Premier league** *La Liga*
 
 ##### Credits:
